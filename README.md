@@ -1,14 +1,14 @@
 ## Hi there! I'm Lucas Keller
 
-I'm a systems engineer with a passion for learning and computer science. Currently, I'm studying deep learning, algorithms, and web development- mostly through projects and lots of reading. I'm always focused on expanding my skillset and utilizing new technologies to get results.
+I'm a **systems engineer** with a passion for learning and computer science. Currently, I'm studying deep learning, algorithms, and web development- mostly through projects and lots of reading. I'm always focused on expanding my skillset and utilizing new technologies to get results.
 
-Profesionally, I'm a c++ systems programmer, thus projects here are mostly prototypes/experiments.
+Profesionally, I'm a c++ Systems/Embedded Engineer, thus projects here are mostly prototypes/experiments to mix it up.
 
 ## Technologies & Tools
-- Programming Languages: C++, Python > java, JS, C
-- Operating Systems: Linux > Mac > Windows
-- Libraries: Boost, PyTorch, FastAI
-- Databases: Some MongoDB, MySQL
+- **Programming Languages**: C++, Python > java, JS, C
+- **Operating Systems**: Linux > Mac > Windows
+- **Libraries**: C++ Boost > Node.js, FastAI, PyTorch
+- **Databases**: Some MongoDB, MySQL
 
 ## Fun Projects
 ### [DunderAI](https://github.com/ljkeller/DunderQueryin): Utilizing language models to predict what character from 'The Office' would say that quote
