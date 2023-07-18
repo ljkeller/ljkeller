@@ -2,7 +2,7 @@
 
 I'm a **systems engineer📻** with a passion for learning and computer science. Currently, I'm studying deep learning, algorithms, and web development- mostly through projects and lots of reading. I'm always focused on expanding my skillset and utilizing new technologies to get results.
 
-Profesionally, I'm a c++ Systems/Embedded Engineer, thus projects here are mostly prototypes/experiments to mix it up.
+Professionally, I'm a c++ Systems/Embedded Engineer, thus projects here are mostly prototypes/experiments to mix it up.
 
 ## Technologies & Tools
 - **Programming Languages**: C++, Python > java, JS, C
