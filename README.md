@@ -1,6 +1,6 @@
 ## Hi there! I'm Lucas Keller
 
-I'm an **Embedded📻 software engineer** with a passion for learning and computer science. Currently, I'm studying deep learning, algorithms, and web development- mostly through projects and lots of reading. I'm always focused on expanding my skillset and utilizing new technologies to get results.
+I'm an **software engineer** with a passion for learning and computer science. Currently, I'm studying deep learning on the edge and web development- mostly through projects and lots of reading. I'm always focused on expanding my skillset and utilizing new technologies to get results.
 
 Professionally, I mostly write c++/python, thus several projects here are prototypes/experiments to mix it up.
 
