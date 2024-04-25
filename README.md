@@ -23,6 +23,9 @@ Professionally, I mostly write c++/python, thus several projects here are protot
 ### [OSCR](https://github.com/ljkeller/Oscr): Open source coin rotator using ESP32
 ![oscr_again](https://github.com/ljkeller/ljkeller/assets/44109284/fa551b1c-b558-4fd2-9aa1-17d986466bd9)
 
+### [PiTop](https://github.com/ljkeller/pitop): Visualize your Windows utilization on a Raspberry Pi screen embedded in your PC case!
+![pitop](https://github.com/ljkeller/ljkeller/assets/44109284/9f14d156-0c90-401f-9078-26b860330790)
+
 ## Lets Connect
 Wanna get in touch?
 - kellerjlucas@gmail.com
