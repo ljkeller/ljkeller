@@ -20,6 +20,9 @@ Professionally, I mostly write c++/python, thus several projects here are protot
 ### [PySLAM](https://github.com/ljkeller/PySlam): Simultaneous Localization and Mapping (SLAM) Python implementation with a Raspberry Pi sending live data over the air for analysis
 ![PiSLAM](https://user-images.githubusercontent.com/44109284/227739106-395a98ed-5f8d-4a81-9826-ae7ba09929e0.png)
 
+### [OSCR](https://github.com/ljkeller/Oscr): Open source coin rotator using ESP32
+![oscr_again](https://github.com/ljkeller/ljkeller/assets/44109284/fa551b1c-b558-4fd2-9aa1-17d986466bd9)
+
 ## Lets Connect
 Wanna get in touch?
 - kellerjlucas@gmail.com
