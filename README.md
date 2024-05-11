@@ -5,10 +5,10 @@ I'm a software with a passion for learning and computer science. Currently, I'm 
 Professionally, I mostly write c++/python, thus several projects here are prototypes/experiments to mix it up.
 
 ## Technologies & Tools
-- **Programming Languages**: C++, Python (professionally); Rust, JavaScript, C, (hobbyist)
+- **Programming Languages**: C++, Python, C (professionally); Rust, JavaScript, (hobbyist)
 - **Operating Systems**: Linux > Mac > Windows
 - **Libraries**: OpenCV, C++ Boost, React, Node.js, FastAI, PyTorch
-- **Databases**: Sqlite3, some PostreSQL and MongoDB
+- **Databases**: PostreSQL,  Sqlite3, and limited MongoDB
 
 ## Fun Projects
 ### [SPARK](https://github.com/ljkeller/SPARK): Smart Parking Edge AI: custom parking lot, custom CNN, cloud integration on RZBoard V2L
