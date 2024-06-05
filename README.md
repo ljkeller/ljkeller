@@ -12,7 +12,7 @@ Professionally, I mostly write c++/python, thus several projects here are protot
 
 ## Fun Projects
 ### [SPARK](https://github.com/ljkeller/SPARK): Smart Parking Edge AI: custom parking lot, custom CNN, cloud integration on RZBoard V2L
-![SPARK](https://github.com/ljkeller/ljkeller/assets/44109284/c2800f4b-76ab-4dce-8e4d-58e3937fc11d)
+![spark_iotc_landing_page](https://github.com/ljkeller/ljkeller/assets/44109284/2e7f03ff-2b09-478b-b4fc-78278614078d)
 
 ### [DunderAI](https://github.com/ljkeller/DunderQueryin): Utilizing language models to predict what character from 'The Office' would say that quote
 ![dunder_ai](https://github.com/ljkeller/ljkeller/assets/44109284/59f9f189-c86f-4328-949c-cfb9a26d8d25)
