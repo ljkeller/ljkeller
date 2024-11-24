@@ -6,9 +6,9 @@ Professionally, I mostly write c++/python, thus several projects here are protot
 
 ## Technologies & Tools
 - **Programming Languages**: C++, Python, C (professionally); Rust, JavaScript, (hobbyist)
-- **Operating Systems**: Linux > Mac > Windows
-- **Libraries**: OpenCV, C++ Boost, React, Node.js, FastAI, PyTorch
-- **Databases**: PostreSQL,  Sqlite3, and limited MongoDB
+- **Operating Systems**: Linux, Mac
+- **Libs/Frameworks**: OpenCV, Next.js, React, Node.js, FastAI, PyTorch
+- **Databases**: PostreSQL,  Sqlite3
 
 ## Fun Projects
 ### [SPARK](https://github.com/ljkeller/SPARK): Smart Parking Edge AI: custom parking lot, custom CNN, cloud integration on RZBoard V2L
